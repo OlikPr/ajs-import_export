@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvgeniyPryanichnikov/ajs-import_export.git"
+    "url": "git+https://github.com/OlikPr/ajs-import_export.git"
   },
   "keywords": [
     "game"
   ],
-  "author": "EvgeniyPryanichikov",
+  "author": "OlikPr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvgeniyPryanichnikov/ajs-import_export/issues"
+    "url": "https://github.com/OlikPr/ajs-import_export/issues"
   },
-  "homepage": "https://https://github.com/EvgeniyPryanichnikov/ajs-import_export#readme",
+  "homepage": "https://https://github.com/OlikPr/ajs-import_export#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
